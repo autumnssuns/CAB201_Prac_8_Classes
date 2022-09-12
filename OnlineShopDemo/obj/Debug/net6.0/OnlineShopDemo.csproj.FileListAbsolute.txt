@@ -1,0 +1,15 @@
+C:\Users\trand8\Documents\CAB201_Prac_8_Classes\OnlineShopDemo\bin\Debug\net6.0\OnlineShopDemo.exe
+C:\Users\trand8\Documents\CAB201_Prac_8_Classes\OnlineShopDemo\bin\Debug\net6.0\OnlineShopDemo.deps.json
+C:\Users\trand8\Documents\CAB201_Prac_8_Classes\OnlineShopDemo\bin\Debug\net6.0\OnlineShopDemo.runtimeconfig.json
+C:\Users\trand8\Documents\CAB201_Prac_8_Classes\OnlineShopDemo\bin\Debug\net6.0\OnlineShopDemo.dll
+C:\Users\trand8\Documents\CAB201_Prac_8_Classes\OnlineShopDemo\bin\Debug\net6.0\OnlineShopDemo.pdb
+C:\Users\trand8\Documents\CAB201_Prac_8_Classes\OnlineShopDemo\obj\Debug\net6.0\OnlineShopDemo.csproj.AssemblyReference.cache
+C:\Users\trand8\Documents\CAB201_Prac_8_Classes\OnlineShopDemo\obj\Debug\net6.0\OnlineShopDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand8\Documents\CAB201_Prac_8_Classes\OnlineShopDemo\obj\Debug\net6.0\OnlineShopDemo.AssemblyInfoInputs.cache
+C:\Users\trand8\Documents\CAB201_Prac_8_Classes\OnlineShopDemo\obj\Debug\net6.0\OnlineShopDemo.AssemblyInfo.cs
+C:\Users\trand8\Documents\CAB201_Prac_8_Classes\OnlineShopDemo\obj\Debug\net6.0\OnlineShopDemo.csproj.CoreCompileInputs.cache
+C:\Users\trand8\Documents\CAB201_Prac_8_Classes\OnlineShopDemo\obj\Debug\net6.0\OnlineShopDemo.dll
+C:\Users\trand8\Documents\CAB201_Prac_8_Classes\OnlineShopDemo\obj\Debug\net6.0\refint\OnlineShopDemo.dll
+C:\Users\trand8\Documents\CAB201_Prac_8_Classes\OnlineShopDemo\obj\Debug\net6.0\OnlineShopDemo.pdb
+C:\Users\trand8\Documents\CAB201_Prac_8_Classes\OnlineShopDemo\obj\Debug\net6.0\OnlineShopDemo.genruntimeconfig.cache
+C:\Users\trand8\Documents\CAB201_Prac_8_Classes\OnlineShopDemo\obj\Debug\net6.0\ref\OnlineShopDemo.dll
